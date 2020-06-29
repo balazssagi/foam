@@ -1,5 +1,4 @@
 # React
 
-- első pont
-- [[redux]]
+- hello
 
