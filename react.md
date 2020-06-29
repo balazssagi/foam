@@ -1,5 +1,0 @@
-# React
-
-- első pont
-- [[redux]]
-
